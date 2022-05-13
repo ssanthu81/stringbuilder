@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/bin/Debug/net6.0/stringbuilder
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/bin/Debug/net6.0/stringbuilder.deps.json
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/bin/Debug/net6.0/stringbuilder.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/bin/Debug/net6.0/stringbuilder.dll
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/bin/Debug/net6.0/stringbuilder.pdb
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.dll
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/refint/stringbuilder.dll
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.pdb
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/stringbuilder.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/extensionmethods/extensionmethods/obj/Debug/net6.0/ref/stringbuilder.dll

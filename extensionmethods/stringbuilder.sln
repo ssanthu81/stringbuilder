@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringbuilder", "extensionmethods\stringbuilder.csproj", "{1FAAACB5-83CF-41DE-A240-6C2BE517945F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAAACB5-83CF-41DE-A240-6C2BE517945F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAAACB5-83CF-41DE-A240-6C2BE517945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAAACB5-83CF-41DE-A240-6C2BE517945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAAACB5-83CF-41DE-A240-6C2BE517945F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1095AB-05C8-4350-B446-0C709A34AA82}
+	EndGlobalSection
+EndGlobal
